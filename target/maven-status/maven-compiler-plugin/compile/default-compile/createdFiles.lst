@@ -1,0 +1,4 @@
+com\mycompany\sistemabancario\ContaBancaria.class
+com\mycompany\sistemabancario\Investimento.class
+com\mycompany\sistemabancario\SistemaBancario.class
+org\telegram\telegrambots\ApiContextInitializer.class
