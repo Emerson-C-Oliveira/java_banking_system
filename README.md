@@ -1,28 +1,45 @@
-# Sistema Bancário em Java
+## Banking System in Java
 
 ![Java](https://img.shields.io/badge/Java-8-orange.svg)
 ![NetBeans](https://img.shields.io/badge/NetBeans-12.0-blue.svg)
 
-Este é um projeto de Sistema Bancário desenvolvido em Java como parte do curso de Linguagem Orientada a Objetos.
+This is a Banking System project developed in Java as part of the Object Oriented Language course.
 
-## Visão Geral
+## Overview
 
-Este projeto consiste em uma aplicação bancária simples que permite aos usuários criar contas bancárias, consultar saldos, realizar depósitos, saques e investir em Certificados de Depósito Bancário (CDB) e Letras de Crédito Imobiliário (LCI). Além disso, inclui uma calculadora de investimentos que permite aos usuários simular seus investimentos.
+This project consists of a simple banking application that allows users to create bank accounts, check balances, make deposits, withdrawals and invest in Bank Deposit Certificates (CDB) and Real Estate Credit Letters (LCI). Additionally, it includes an investment calculator that allows users to simulate their investments.
 
-## Funcionalidades
+## Functionalities
 
-- Criar uma conta bancária com nome, sobrenome e CPF.
-- Consultar o saldo de uma conta.
-- Realizar depósitos e saques em uma conta.
-- Fazer aplicações financeiras em CDB e LCI.
-- Simular investimentos e calcular rendimentos.
+- Create a bank account with name, surname and CPF.
+- Check the balance of an account.
+- Make deposits and withdrawals into an account.
+- Make financial investments in CDB and LCI.
+- Simulate investments and calculate returns.
 
-## Pré-requisitos
+### Technologies Used
 
-- Java Development Kit (JDK) 8 ou superior.
-- NetBeans IDE 12.0 ou superior.
+- Programming language: Java.
+- Java Development Kit (JDK) 8 or higher.
+- IDE: NetBeans 12.0 or higher.
+- Application Server: Apache Tomcat.
+- Version Control: Git and GitHub.
 
-## Como Executar
+## How to Execute
 
-1. Clone este repositório para o seu ambiente local.
+1. Clone this repository to your local machine.
+2. Open the project in your preferred Java IDE (we recommend NetBeans).
+3. Make sure you have Apache Tomcat configured in your development environment.
+4. Run the project on the Tomcat server.
+5. Access the banking application through the browser.
+
+## Who am I
+
+My name is Emerson Carlos de Oliveira, I am a lawyer, a software engineering student, and I am a Data Scientist in training.
+
+Email: emerson_uo@hotmail.com
+
+Linkedin: https://www.linkedin.com/in/emerson-carlos-oliveira/
+
+
 
